@@ -1,9 +1,10 @@
+#include "evaluate.h"
+
 #include <set>
 #include <cstdlib>
-#include <iostream>
 #include <fstream>
+#include <iostream>
 #include <sstream>
-#include "evaluate.h"
 
 using namespace std;
 

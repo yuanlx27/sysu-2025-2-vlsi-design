@@ -17,7 +17,6 @@ class Node{
     private:
         int index;
         vector<Net *> nets;
-
 };
 
 #endif

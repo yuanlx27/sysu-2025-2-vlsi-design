@@ -1,4 +1,4 @@
-#import "@local/bubble-sysu:0.1.0": *
+#import "@preview/bubble-sysu:0.1.0": *
 
 #show: report.with(
   title: "实验一：图划分算法",
